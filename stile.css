@@ -1,0 +1,59 @@
+.sec{
+    position: relative;
+    width: 1100px;
+    height: 700px;
+    background-color: black;
+    
+}
+.l{
+    position: relative;
+    
+}
+#tetris1{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+   border: 1px solid blue;
+    background-color: red;
+}
+#tetris2{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 50px;
+    border: 1px solid blue;
+
+    background-color: red;
+}
+#tetris3{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 100px;
+    border: 1px solid blue;
+
+    background-color: red;
+}
+#tetris4{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 150px;
+    border: 1px solid blue;
+
+    background-color: red;
+}
+#tetris5{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 50px;
+    border: 1px solid blue;
+
+    background-color: red;
+}
+form{
+    position:absolute;
+    top:0px;
+    left:1200px;
+}
